@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+logs/
+*.pyc
+*.pyo
+db.sqlite3
+*.egg-info/
+.env
+nginx.pid
